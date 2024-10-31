@@ -18,4 +18,3 @@ C:\msys64\mingw64\bin
 - Install "Code Runner"
 - Go to vscode Settings -> Extension -> Run Code configuration
 - Checked on "Run In Terminal" box
-- 
